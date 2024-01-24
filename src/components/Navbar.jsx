@@ -8,7 +8,7 @@ const Navbar = () => {
         to="/"
         className="w-10 h-10 rounded-lg bg-white items-center flex font-bold shadow-md"
       >
-        <p className="blue-gradient_text">AH</p>
+        <p className="blue-gradient_text">XXI</p>
       </NavLink>
       <nav className="flex text-lg gap-7 font-medium">
         <NavLink

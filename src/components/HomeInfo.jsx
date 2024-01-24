@@ -23,7 +23,7 @@ const renderContent = {
   ),
   2: (
     <InfoBox
-      text="I live in the city of Medellín, I am currently a student at SENA and I have an assistant's degree in software development, completed at CESDE. I love technology and I would like to work for a leading AI company in the future."
+      text="Passionate about software development. focused on the frontend with React and learning about 3D animation with Threejs"
       link="/about"
       btnText="Learn more"
     />
